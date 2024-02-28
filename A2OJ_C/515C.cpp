@@ -12,6 +12,8 @@ using namespace std;
 #define pb push_back
 void solve()
 {
+    int a;
+    
     int n;cin>>n;
     ll num;cin>>num;
     vector<int> vec;
